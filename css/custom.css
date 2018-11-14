@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.spotlight {
+	background-image: url(../images/Toronto.jpg);
+	height: 640px;
+	background-size: cover;
+}
+
+.spotlight h1 {
+	color: #fff;
+}
+
+.spotlight p {
+	color: #fff;
+}
