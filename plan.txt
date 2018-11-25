@@ -1,0 +1,17 @@
+home page:
+	jumbotron
+	carousel 
+		
+content heavy page
+	my projects
+
+form page
+	contact info
+	
+tabular content
+	list of courses
+	cv
+	
+a video or media rich page
+	fortnite
+	basketball
