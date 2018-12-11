@@ -27,3 +27,40 @@
 .card {
 	margin-top: 15px;
 }
+
+.event {
+	margin-bottom: 5px;
+}
+
+.vid {
+	margin: 0 auto;
+  float: none;
+  margin-bottom: 10px;
+}
+
+.top {
+	width: 992px;
+}
+
+.middle {
+	width: 768px;
+}
+
+.low {
+	width: 576px;
+}
+
+.iframe-top {
+	width: 992px;
+	height: 558px;
+}
+
+.iframe-mid {
+	width: 768px;
+	height: 432px;
+}
+
+.iframe-low {
+	width: 576px;
+	height: 324px;
+}
